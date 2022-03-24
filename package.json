@@ -1,5 +1,5 @@
 {
-  "name": "Wizard-Ser",
+  "name": "ARJUNSERBOT",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-Ser.git"
+    "url": "git+https://github.com/Arjun-ser-ofc/ARJUNSERBOT.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ajmal-Achu",
+  "author": "ArjunSer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
+    "url": "https://github.com/Arjun-ser-ofc/ARJUNSERBOT/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-Ser",
+  "homepage": "https://github.com/Arjun-ser-ofc/ARJUNSERBOT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
@@ -71,3 +71,4 @@
     "yt-search": "^2.9.0"
   }
 }
+
