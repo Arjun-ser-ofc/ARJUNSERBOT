@@ -13,7 +13,7 @@ for (let file of files) {
   spawn(process.argv0, ['-c', file])
   .on('close', () => {
     assert.ok(file)
-    console.log('Done', file)
+    console.log('Done', fil)
   })
   .stderr.on('data', chunk => assert.ok(chunk.length < 1, file + '\n\n' + chunk))
 }
