@@ -1,18 +1,18 @@
-# Wizard-Ser
+# Arjun-Ser
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/8kP5Yov.jpeg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/arjun_mom_z"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/916238440754"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+SudoAnirudh;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Arjun+Ser+Is+A+Modified+Version+Of;Eva+By+ARJUNLAL;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
             alt="Typing SVG"
         />
     </a>
@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/NS1wlsW.jpeg" />
 </p>
 
 -------
@@ -41,7 +41,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
 Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arjun-ser-ofc/ARJUNSERBOT) 
 ----------
 
 
@@ -62,21 +62,21 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu/Wizrad-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/Arjun-ser-ofc/ARJUNSERBOT"><img src="https://i.imgur.com/riyD9wH.jpeg" />
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/J5Z3gyoxidd1JDiJzA9a9x)
   <div align="center">
 
 
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![ArjunSer](https://i.imgur.com/MUSmLCa.jpeg)](https://github.com/Arjun-ser-ofc)[`ArjunLal`](https://github.com/Arjun-ser-ofc)
 ----|
    `Base, Bug Fixes, Modules`
 
