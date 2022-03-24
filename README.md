@@ -23,7 +23,7 @@
 
 [`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
 
-## [`CLICK HERE TO CONTACT ME FOR HELP`](wa.me/3584460000602)
+## [`CLICK HERE TO CONTACT ME FOR HELP`](https://wa.me/3584460000602)
 ----------
 
 <p align="center">
