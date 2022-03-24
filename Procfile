@@ -1,4 +1,4 @@
 web: node . --server
 
 run:
-   worker: npm start
+   worker: npm star
