@@ -491,5 +491,5 @@ fs.watchFile(file, () => {
   fs.unwatchFile(file)
   console.log(chalk.redBright("Update 'handler.js'"))
   delete require.cache[file]
-  if (global.reloadHandler) console.log(global.reloadHandle())
+  if (global.reloadHandler) console.log(global.reloadHandler())
 })
