@@ -57,4 +57,4 @@ function start(file) {
   // console.log(p)
 }
 
-start('main.j')
+start('main.js')
