@@ -371,7 +371,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     throw e
   }
 }
-handler.help = ['menu', 'help','list','Arjunser', '?']
+handler.help = ['menu','help','list','Arjunser','?']
 handler.tags = ['main']
 handler.command = /^(listt|\?)$/i
 handler.owner = false
