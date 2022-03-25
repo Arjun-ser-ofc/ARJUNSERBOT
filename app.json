@@ -1,7 +1,29 @@
 {
-"name": "ARJUNSER BOT",
-  "description": "Lightweight WhatsApp Bot",
+"name": "ArjunSer-BOT",
+  "description": "ArjunSer NODE WhatsApp Bot",
   "repository": "https://github.com/Arjun-ser-ofc/ARJUNSERBOT",
-  "logo": "https://i.imgur.com/cWx2ea4.jpeg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+  "logo": "https://i.imgur.com/fuqMQLQ.jpeg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot","NODE BOT"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        },
+
+        {
+
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+        },
+
+        {
+
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+
+        }
+
+    ]
 }
