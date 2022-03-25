@@ -199,16 +199,16 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                 {
                   "title": `ARJUN SER`,
                   "description": "Arjun Ser git link",
-                  "rowId": ".git"
+                  "rowId": ".? .git"
                 }, {
                   "title": "💻Game",
                   "description": "Game features",
-                  "rowId": ".? game"
+                  "rowId": ".? .game"
 
                 }, {
                   "title": "💸XP",
                   "description": "Features level & usage limit",
-                  "rowId": ".? xp"
+                  "rowId": ".? .xp"
 
                 },  {
                   "title": "Video Maker",
@@ -218,67 +218,67 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                 },{
                   "title": "Sticker",
                   "description": "Features for making stickers",
-                  "rowId": ".? stiker"
+                  "rowId": ".? .stiker"
                 }, { 
                 "title": "Anime",
                 "description": "Anime Related Plugin",
-                "rowId": ".? anime"
+                "rowId": ".? .anime"
               },  {
                   "title": "Quotes",
                   "description": "Gives You random quotes",
-                  "rowId": ".? quote"
+                  "rowId": ".? .quote"
                 }, {
                   "title": "Admin",
                   "description": "Group Admin Commands",
-                  "rowId": ".? admin"
+                  "rowId": ".? .admin"
                 }, {
                   "title": "Grup",
                   "description": "Group Related Commands",
-                  "rowId": ".? grup"
+                  "rowId": ".? .grup"
                 }, {
                   "title": "Premium",
                   "description": "Premium Users Plugins",
-                  "rowId": ".? premium"
+                  "rowId": ".? .premium"
                 }, {
                   "title": "Internet",
                   "description": "Commands Related To Internet",
-                  "rowId": ".? internet"
+                  "rowId": ".? .internet"
                 }, {
                   "title": "Anonymous",
                   "description": "To Start Anonymous Chatting",
-                  "rowId": ".? anonymous"
+                  "rowId": ".? .anonymous"
                 }, {
                   "title": "Magic Shell",
                   "description": "Random answer feature",
-                  "rowId": `.? magicshell`
+                  "rowId": `.? .magicshell`
                 }, {
                   "title": "Nulis & Logo",
                   "description": "Text Maker Coammnds",
-                  "rowId": ".? nulis"
+                  "rowId": ".? .nulis"
                 }, {
                   "title": "Downloader",
                   "description": "Downloading Commnds",
-                  "rowId": ".? downloader"
+                  "rowId": ".? .downloader"
                 }, {
                   "title": "Tools",
                   "description": "Tool features",
-                  "rowId": ".? tools"
+                  "rowId": ".? .tools"
                 }, {
                   "title": "Voice Changer",
                   "description": "To change the voice",
-                  "rowId": `.? audio`
+                  "rowId": `.? .audio`
                 }, {
                   "title": "Fun",
                   "description": "Just for fun",
-                  "rowId": ".? fun"
+                  "rowId": ".? .fun"
                 }, {
                   "title": "Database",
                   "description": "User database",
-                  "rowId": ".? database"
+                  "rowId": ".? .database"
                 },{
                   "title": "Owner",
                   "description": "Owner's special features",
-                  "rowId": ".? owner"
+                  "rowId": ".? .owner"
                 }
               ]
             }
@@ -371,7 +371,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     throw e
   }
 }
-handler.help = ['menu','help','list','Arjunser','?']
+handler.help = ['menu','help','list','arjunser','?']
 handler.tags = ['main']
 handler.command = /^(listt|\?)$/i
 handler.owner = false
