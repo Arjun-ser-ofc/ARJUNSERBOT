@@ -11,10 +11,10 @@ const defaultMenu = {
      ✪〔 %me 〕✪
 🔸Hai, %name!
 
-🔸 Github: [ wa.me/916238440754 ]
+🔸 Github: [ www.github.com/Arjun-ser-ofc/ARJUNSERBOT ]
 
 
-     〘 *WIZARD SER* 〙
+     〘 *wa.me/916238440754* 〙
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
   body: '├ %cmd',
