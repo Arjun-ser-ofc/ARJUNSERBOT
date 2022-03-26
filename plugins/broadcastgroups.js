@@ -8,9 +8,9 @@ key : {
                             itemCount : 2022,
                             itemCoun : 2022,
                             surface : 2022,
-                            message: '「 All Group Broadcast 」',
+                            message: '「 𝛢𝐿𝐿 𝛣𝛤𝚯𝛢𝐷𝐶𝛢𝑆𝛵 𝛣𝛶 𝛢રյ𝛖𝛈𝑆𝜀ર🧚‍♂️ 」',
                             orderTitle: 'B',
-                            thumbnail: fs.readFileSync('./src/icon.jpg'), 
+                            thumbnail: fs.readFileSync('./src/bot.jpg'), 
                             sellerJid: '0@s.whatsapp.net'
 
                           }
@@ -34,7 +34,7 @@ let handler  = async (m, { conn, dev,  text }) => {
   let teks = text ? text : cc.text
   let content = await conn.cMod(m.chat, cc, /bc|broadcast/i.test(teks) ? teks : teks + '\n\n' + '*「 ᴀʟʟ ᴄʜᴀᴛ ʙʀᴏᴀᴅᴄᴀsᴛ ʙʏ ᴀʀᴊᴜɴsᴇʀ🧚‍♂️ 」*')
   conn.reply(m.chat, `Send a broadcast message to ${groups.length} group`, dev)
-  for (let id of groups) conn.copyNForward(id, content, 'conversation',{ quoted: dev ,thumbnail: fs.readFileSync('./src/icon.jpg'), contextInfo:{externalAdReply: {title: `ᴀʀᴊᴜɴsᴇʀ  ʙʀᴏᴀᴅᴄᴀsᴛ` , body: '© ᴀʀᴊᴜɴsᴇʀ ', sourceUrl: '', thumbnail: fs.readFileSync('./src/icon.jpg')}},mp3:true} ,true)
+  for (let id of groups) conn.copyNForward(id, content, 'conversation',{ quoted: dev ,thumbnail: fs.readFileSync('./src/bot.jpg'), contextInfo:{externalAdReply: {title: `ᴀʀᴊᴜɴsᴇʀ  ʙʀᴏᴀᴅᴄᴀsᴛ` , body: '© ᴀʀᴊᴜɴsᴇʀ ', sourceUrl: '', thumbnail: fs.readFileSync('./src/bot.jpg')}},mp3:true} ,true)
   conn.reply(m.chat, `Done`, dev)
 }
 handler.help = ['broadcastgroup','bcgc'].map(v => v + ' <teks>')
