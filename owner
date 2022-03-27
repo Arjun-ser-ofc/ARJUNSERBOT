@@ -1,0 +1,15 @@
+let fetch = require ('node-fetch')
+let handler = async (m, { conn }) => {
+    let haruno = `┌ 「 𝚯𝐖𝚴𝚺𝚪 𝚯𝐅 𝚩𝚯𝚻」
+   𝚲રյ𝛖𝛈𝑆𝜀ર🧚‍♂️  https://wa.me/916238440754 🙂
+              https://wa.me/3584460000602
+              https://wa.me/642777712025
+              https://wa.me/4915147778309
+    𝚲𝐉𝐔🧚‍♂️    https://wa.me/919744196187
+`.trim()
+    await conn.send2ButtonLoc(m.chat, await (await fetch("https://telegra.ph/file/8e51ce6b6a1f2576914c9.jpg")).buffer(), haruno, '© ᴀʀᴊᴜɴsᴇʀ', 'ᴍᴇɴᴜ', '.menu', 'ᴏᴡɴᴇʀ', '.owner', m)
+}
+handler.tags = ['main']
+handler.help = ['owner']
+handler.command = /^(owner)$/i
+module.exports = handler
