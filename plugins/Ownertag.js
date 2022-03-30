@@ -1,6 +1,6 @@
 let fetch = require ('node-fetch')
 let fs = require('fs')
-let vn =['./Devil/mention.mp3']
+let vn =['./ArjunSer/mention.mp3']
 hasil = vn[Math.floor(Math.random() * (vn.length))]
 hisil = fs.readFileSync(hasil)
 let handler = async (m, { conn, text }) => {
